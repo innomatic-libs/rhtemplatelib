@@ -1,0 +1,54 @@
+General information
+-------------------
+
+RH Template Lib is a simple and fast templates class.
+
+
+
+License
+-------
+See the file named LICENSE.
+
+
+
+Requirements
+------------
+
+Serverside:
+    a working Innomatic platform installation.
+
+Clientside:
+    a web browser with HTML 4.0 and CSS support.
+
+
+
+Installation
+------------
+
+See the file named INSTALL.
+
+
+
+Additional Information
+----------------------
+
+Innomatic official home page:
+    http://www.innomatica.it
+
+RH Template Lib latest distribution:
+    http://appcentral.innomatica.it
+
+
+To submit a bug report:
+    send an email to bugs@innomatica.it
+
+To submit a support request:
+    send an email to support@innomatica.it
+
+
+
+Disclaimer
+----------
+
+There is no warranty, expressed or implied, associated with this product.
+Use at your own risk.

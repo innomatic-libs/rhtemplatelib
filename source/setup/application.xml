@@ -1,0 +1,39 @@
+<?xml version='1.0'?>
+<application>
+
+	<definition>
+		<idname>rhtemplatelib</idname>
+		<release>
+			<version>1.3-2</version>
+			<date>2008/12/15</date>
+			<changesfile>CHANGES</changesfile>
+		</release>
+		<description>A fast and simple templates class.</description>
+		<category>libraries</category>
+		<iconfile></iconfile>
+		<legal>
+			<author>
+				<name>Richard Heyes</name>
+				<email></email>
+				<web></web>
+			</author>
+			<copyright></copyright>
+			<license>Postcard-ware</license>
+			<licensefile>LICENSE</licensefile>
+		</legal>
+		<support>
+			<supportemail>helpdesk@innoteam.it</supportemail>
+			<bugsemail>helpdesk@innoteam.it</bugsemail>
+			<maintainer>
+				<name>Alex Pagnoni</name>
+				<email>alex.pagnoni@innoteam.it</email>
+			</maintainer>
+		</support>
+	</definition>
+
+	<components>
+
+		<class name="rhtemplate/RHTemplate.php" />
+
+	</components>
+</application>

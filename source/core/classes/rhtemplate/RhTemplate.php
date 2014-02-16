@@ -1,4 +1,5 @@
 <?php
+namespace rhtemplate;
 
 /***************************************
 ** Title........: Template class
@@ -10,7 +11,7 @@
 ** Last change..: Added 5 new functions.
 ***************************************/
 
-        class rh_template{
+        class RhTemplate{
 
                 var $var_names = array();
                 var $files = array();
